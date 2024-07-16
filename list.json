@@ -1,0 +1,564 @@
+{
+
+	"en": {
+
+		"Ethical Hacking": {
+
+			"Ethical Hacking": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Footprinting and Reconnaissance": "api/en/introduction/coreJavaScript",
+				"Scanning Networks": "api/en/introduction/clientSideJavaScript",
+				"Ennumeration": "api/en/introduction/coreJavaScript",
+				"Vulnerability Analysis": "api/en/introduction/clientSideJavaScript",
+				"System Hacking": "api/en/introduction/clientSideJavaScript",
+				"Malware Analysis": "api/en/introduction/clientSideJavaScript",
+				"Sniffers": "api/en/introduction/clientSideJavaScript",
+				"Social Engineering": "api/en/introduction/coreJavaScript",
+				"Denial of Service": "api/en/introduction/clientSideJavaScript",
+				"Session Hijacking": "api/en/introduction/clientSideJavaScript",
+				"Evading IDS, Firewalls and Honeypots": "api/en/introduction/clientSideJavaScript",
+				"Hacking Web Servers and Web Applications": "api/en/introduction/clientSideJavaScript",
+				"Wireless Networks": "api/en/introduction/coreJavaScript",
+				"Mobile Devices and Platforms": "api/en/introduction/clientSideJavaScript",
+				"Hacking IoT Devices": "api/en/introduction/clientSideJavaScript",
+				"Cryptography": "api/en/introduction/clientSideJavaScript",
+				"Cloud Computing": "api/en/introduction/clientSideJavaScript",
+				"SQL Injection": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"Introduction": {
+
+			"Introduction to Ethical Hacking": {
+				"Introduction to Ethical Hacking": "api/en/introduction/javaScript",
+				"Protecting Data in Digital World": "api/en/introduction/coreJavaScript",
+				"Maintain a Vigilant Posture": "api/en/introduction/clientSideJavaScript",
+				"Summarize Hacking Frameworks": "api/en/introduction/coreJavaScript",
+				"Review Security Laws and Standards": "api/en/introduction/clientSideJavaScript",
+				"Support Ethical Hacking": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P2: Foorprinting and Reconnaissance": {
+
+			"Foorprinting and Reconnaissance": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Reconnaisance Overview": "api/en/introduction/coreJavaScript",
+				"Email and Websites": "api/en/introduction/clientSideJavaScript",
+				"Reconnaisance Tools": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P2: Scanning Networks": {
+
+			"Scanning Networks": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Scanning Purpose and Methodology": "api/en/introduction/coreJavaScript",
+				"Discovering Hosts": "api/en/introduction/clientSideJavaScript",
+				"Identifying Open Services": "api/en/introduction/coreJavaScript",
+				"Determining Operating Systems": "api/en/introduction/clientSideJavaScript",
+				"Moving through the Network": "api/en/introduction/clientSideJavaScript",
+				"Avoiding Detection": "api/en/introduction/coreJavaScript",
+				"Counteracting Scanning": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P2: Enumeration": {
+
+			"Enumeration": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Basics of Enumeration": "api/en/introduction/coreJavaScript",
+				"Local Host Enumeration": "api/en/introduction/clientSideJavaScript",
+				"Enumeration Remote Hosts": "api/en/introduction/coreJavaScript",
+				"Enumerating Web Apps": "api/en/introduction/clientSideJavaScript",
+				"Enumerating the Internet": "api/en/introduction/clientSideJavaScript",
+				"Enumerating Cloud": "api/en/introduction/coreJavaScript",
+				"Other Enumeration": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P2: Vulnerability Assessment": {
+
+			"Vulnerability Analysis": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Managing Organizational Risk": "api/en/introduction/coreJavaScript",
+				"Vulnerability Analysis": "api/en/introduction/clientSideJavaScript",
+				"Vulnerability Assessment Tools": "api/en/introduction/coreJavaScript",
+				"Defent the LAN": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P3: System Hacking": {
+
+			"System Hacking": {
+				"Introduction": "api/en/introduction/javaScript",
+				"System Hacking Overview": "api/en/introduction/coreJavaScript",
+				"Gaining Access": "api/en/introduction/clientSideJavaScript",
+				"Privilege Escalation": "api/en/introduction/coreJavaScript",
+				"Spyware": "api/en/introduction/clientSideJavaScript",
+				"Keyloggers": "api/en/introduction/clientSideJavaScript",
+				"Hiding in Plain Sight": "api/en/introduction/coreJavaScript",
+				"Cover your Tracks": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P3: Malware Analysis": {
+
+			"Malware Analysis": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Malware Detection": "api/en/introduction/coreJavaScript",
+				"Adanced Techniques": "api/en/introduction/coreJavaScript",
+				"Reverse Engineering Malware": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/coreJavaScript"
+			}
+		},
+
+		"P3: Sniffers": {
+
+			"Sniffers": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Sniffing Overview": "api/en/introduction/coreJavaScript",
+				"MAC Attacks": "api/en/introduction/clientSideJavaScript",
+				"DHCP": "api/en/introduction/coreJavaScript",
+				"ARP": "api/en/introduction/clientSideJavaScript",
+				"DNS": "api/en/introduction/clientSideJavaScript",
+				"Sniffing Tools and Techniques": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P3: Social Engineering": {
+
+			"Social Engineering": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Social Engineering Overview": "api/en/introduction/coreJavaScript",
+				"Social Engineering Mechanisms": "api/en/introduction/clientSideJavaScript",
+				"Misuse of Trust": "api/en/introduction/coreJavaScript",
+				"Penetration Testing with Social Engineering": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P3: Denial of Service": {
+
+			"Denial of Service": {
+				"Introduction": "api/en/introduction/javaScript",
+				"What is a Denial of Service": "api/en/introduction/coreJavaScript",
+				"Infrastructure Denial of Service": "api/en/introduction/clientSideJavaScript",
+				"Wireless Denial of Service": "api/en/introduction/coreJavaScript",
+				"Application Denial of Service": "api/en/introduction/clientSideJavaScript",
+				"SIP Service Attacks": "api/en/introduction/clientSideJavaScript",
+				"Ransomware": "api/en/introduction/coreJavaScript",
+				"Mitigation Techniques": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P4: Session Hijacking": {
+
+			"Session Hijacking": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Network Session Hijacking": "api/en/introduction/coreJavaScript",
+				"Web Session Hijacking": "api/en/introduction/clientSideJavaScript",
+				"Additional Tools": "api/en/introduction/coreJavaScript",
+				"Service Hijacking": "api/en/introduction/clientSideJavaScript",
+				"Hijacking in Physical World": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P4: Evading IDS Firewalls and Honeypots": {
+
+			"Evading IDS Firewalls and Honeypots": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Firewalls": "api/en/introduction/coreJavaScript",
+				"Hardware Firewalls": "api/en/introduction/clientSideJavaScript",
+				"Network Simulation Using GNS3": "api/en/introduction/coreJavaScript",
+				"Special Purpose Perimeter Devices": "api/en/introduction/clientSideJavaScript",
+				"Protection from Intrusion": "api/en/introduction/clientSideJavaScript",
+				"Evasion Techniques": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P4: Hacking Web Servers and Web Applications": {
+
+			"Hacking Web Servers and Web Applications": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Introduction to Web Servers": "api/en/introduction/coreJavaScript",
+				"Getting Ready to Test": "api/en/introduction/clientSideJavaScript",
+				"Running Basic Web Application Tests": "api/en/introduction/coreJavaScript",
+				"Advanced Web Application Tests": "api/en/introduction/clientSideJavaScript",
+				"Practicing your Skills": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P5: Wireless Networks": {
+
+			"Wireless Networks": {
+                "Introduction": "api/en/core/lexicalStructure/lexicalStructure",
+				"Wi-Fi Networks": "api/en/core/lexicalStructure/characterSet",
+				"Rogue Access Points": "api/en/core/lexicalStructure/comments",
+				"Bluetooth": "api/en/core/lexicalStructure/literals",
+				"Additional Tools": "api/en/core/lexicalStructure/identifiersReservedWords",
+				"Internet of Things": "api/en/core/lexicalStructure/optionalSemicolons",
+				"Conclusion": "api/en/core/lexicalStructure/optionalSemicolons"
+			}
+		},
+
+		"P5: Mobile Devices": {
+
+			"Mobile Devices": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Mobile Technology": "api/en/introduction/coreJavaScript",
+				"Android": "api/en/introduction/clientSideJavaScript",
+				"iOS": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P5: Hacking IoT Devices": {
+
+			"Hacking IoT Devices": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Dissecting the Internet of Things": "api/en/introduction/coreJavaScript",
+				"Understanding IoT Attacks": "api/en/introduction/clientSideJavaScript",
+				"Countermeasure": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P5: Cryptography": {
+
+			"Cryptography": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Cryptography Basics": "api/en/introduction/coreJavaScript",
+				"Ciphers": "api/en/introduction/clientSideJavaScript",
+				"Hashing": "api/en/introduction/coreJavaScript",
+				"Digital Certificates": "api/en/introduction/clientSideJavaScript",
+				"Public Key Infrastructure (PKI)": "api/en/introduction/coreJavaScript",
+				"Applied Uses of Cryptography": "api/en/introduction/clientSideJavaScript",
+				"Cryptographic Attacks": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P5: Cloud Computing": {
+
+			"Cloud Computing": {
+				"Introduction": "api/en/introduction/javaScript",
+				"Cloud Overview": "api/en/introduction/coreJavaScript",
+				"Cloud Identity Management": "api/en/introduction/clientSideJavaScript",
+				"Cloud High Availability": "api/en/introduction/coreJavaScript",
+				"Hardening the Cloud": "api/en/introduction/clientSideJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"P4: SQL Injection": {
+
+			"SQL Injection": {
+				"Introduction": "api/en/introduction/javaScript",
+				"SQL Basics": "api/en/introduction/coreJavaScript",
+				"Testing for SQL Injections": "api/en/introduction/clientSideJavaScript",
+				"Automating SQL Injection Exploits": "api/en/introduction/coreJavaScript",
+				"Conclusion": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+
+
+		"Wireless Networs": {
+
+			"Wireless Networks": {
+                "Introduction": "api/en/core/lexicalStructure/lexicalStructure",
+				"Wi-Fi Networks": "api/en/core/lexicalStructure/characterSet",
+				"Rogue Access Points": "api/en/core/lexicalStructure/comments",
+				"Bluetooth": "api/en/core/lexicalStructure/literals",
+				"Additional Tools": "api/en/core/lexicalStructure/identifiersReservedWords",
+				"Internet of Things": "api/en/core/lexicalStructure/optionalSemicolons",
+				"Conclusion": "api/en/core/lexicalStructure/optionalSemicolons"
+			},
+
+			"Types, Values and Variables": {
+                "Types, Values and Variables": "api/en/core/typesValuesVariables/typesValuesVariables",
+				"Numbers": "api/en/core/typesValuesVariables/numbers",
+				"Text": "api/en/core/typesValuesVariables/text",
+				"Boolean Values": "api/en/core/typesValuesVariables/booleanValues",
+				"null and undefined": "api/en/core/typesValuesVariables/nullUndefined",
+				"The Global Object": "api/en/core/typesValuesVariables/globalObjects",
+				"Wrapper Objects": "api/en/core/typesValuesVariables/wrapperObjects",
+				"Immutable Primitive Values and Mutable Object References": "api/en/core/typesValuesVariables/immutablePrimitiveValuesMOR",
+				"Type Conversions": "api/en/core/typesValuesVariables/typeConversions",
+				"Variable Declaration": "api/en/core/typesValuesVariables/variableDeclaration",
+				"Variable Scope": "api/en/core/typesValuesVariables/variableScope"
+			},
+
+			"Expressions and Operators": {
+                "Expressions and Operators": "api/en/core/expressionsOperators/expressionsOperators",
+				"Primary Expressions": "api/en/core/expressionsOperators/primaryExpressions",
+				"Object and Array Initializers": "api/en/core/expressionsOperators/objectArrayInitializers",
+				"Function Definition Expressions": "api/en/core/expressionsOperators/functionDefinitionExpressions",
+				"Property Access Expressions": "api/en/core/expressionsOperators/propertyAccessExpressions",
+				"Invocation Expressions": "api/en/core/expressionsOperators/invocationExpressions",
+				"Object Creation Expressions": "api/en/core/expressionsOperators/objectCreationExpressions",
+				"Operator Overview": "api/en/core/expressionsOperators/operatorOverview",
+				"Arithmetic Expressions": "api/en/core/expressionsOperators/arithmeticExpressions",
+				"Relational Expressions": "api/en/core/expressionsOperators/relationalExpressions",
+				"Logical Expressions": "api/en/core/expressionsOperators/logicalExpressions",
+				"Assignment Expressions": "api/en/core/expressionsOperators/assignmentExpressions",
+				"Evaluation Expressions": "api/en/core/expressionsOperators/evaluationExpressions",
+				"Miscellaneious Operators": "api/en/core/expressionsOperators/miscellaneiousOperators"
+			},
+
+			"Statements": {
+				"Statements": "api/en/core/statements/statements",
+				"Expression Statements": "api/en/core/statements/expressionStatements",
+				"Compound and Empty Statements": "api/en/core/statements/compoundEmptyStatements",
+				"Declaration Statements": "api/en/core/statements/declarationStatements",
+				"Conditions": "api/en/core/statements/conditions",
+				"Loops": "api/en/core/statements/loops",
+				"Jumps": "api/en/core/statements/jumps",
+				"Miscellaneious Statements": "api/en/core/statements/miscellaneiousStatements",
+				"Summary of Javascript Statements": "api/en/core/statements/summary"
+			},
+
+			"Objects": {
+				"Objects": "api/en/core/objects/objects",
+				"Creating Objects": "api/en/core/objects/creatingObjects",
+				"Querying and Setting Properties": "api/en/core/objects/queryingSettingProperties",
+				"Deleting Properties": "api/en/core/objects/deletingProperties",
+				"Testing Properties": "api/en/core/objects/testingProperties",
+				"Enumerating Properties": "api/en/core/objects/enumeratingProperties",
+				"Property Getters and Setters": "api/en/core/objects/propertyGettersSetters",
+				"Property Attributes": "api/en/core/objects/propertyAttributes",
+				"Object Attributes": "api/en/core/objects/objectAttributes",
+				"Serializing Objects": "api/en/core/objects/serializingObjects",
+				"Object Methods": "api/en/core/objects/objectMethods"
+			},
+
+			"Arrays": {
+				"Arrays": "api/en/core/arrays/arrays",
+				"Creating Arrays": "api/en/core/arrays/creatingArrays",
+				"Reading and Writing Array Elements": "api/en/core/arrays/readingWritingArrayElements",
+				"Sparse Arrays": "api/en/core/arrays/sparseArrays",
+				"Array Length": "api/en/core/arrays/arrayLength",
+				"Adding and Deleting Array Elements": "api/en/core/arrays/addingDeletingArrayElements",
+				"Iterating Arrays": "api/en/core/arrays/iteratingArrays",
+				"Multidimensional Arrays": "api/en/core/arrays/multidimensionalArrays",
+				"Array Methods": "api/en/core/arrays/arrayMethods",
+				"EcmaScript Array Methods": "api/en/core/arrays/ecmaScriptArrayMethods",
+				"Array Type": "api/en/core/arrays/arrayType",
+				"Array-Like Objects": "api/en/core/arrays/arrayLikeObjects",
+				"Strings as Arrays": "api/en/core/arrays/stringsAsArrays"
+			},
+
+			"Functions": {
+				"Functions": "api/en/core/functions/functions",
+				"Defining Functions": "api/en/core/functions/definingFunctions",
+				"Invoking Functions": "api/en/core/functions/invokingFunctions",
+				"Function Arguments and Parameters": "api/en/core/functions/functionArgumentsParameters",
+				"Functions as Values": "api/en/core/functions/functionsValues",
+				"Functions as Namespaces": "api/en/core/functions/functionsNamespaces",
+				"Closures": "api/en/core/functions/closures",
+				"Function Properties, Method and Constructor": "api/en/core/functions/functionPropertyMethodConstructor",
+				"Functional Programming": "api/en/core/functions/functionalProgramming"
+			},
+
+			"Classes and Modules": {
+				"Classes and Modules": "api/en/core/classesModules/classesModules",
+				"Classes and Prototypes": "api/en/core/classesModules/classesPrototypes",
+				"Classes and Constructors": "api/en/core/classesModules/classesConstructors",
+				"Java-Style Classes in Javascript": "api/en/core/classesModules/javaStyleClassesInJS",
+				"Augmenting Classes": "api/en/core/classesModules/augmentingClasses",
+				"Classes and Types": "api/en/core/classesModules/classesTypes",
+				"Object-Oriented Techniques in Javascript": "api/en/core/classesModules/objectOrientedTechniquesJS",
+				"Subclasses": "api/en/core/classesModules/subClasses",
+				"Classes in ECMAScript": "api/en/core/classesModules/classesEcmaScript",
+				"Modules": "api/en/core/classesModules/modules"
+			},
+
+			"Pattern Matching and Regular Expressions": {
+				"Pattern Matching and Regular Expressions": "api/en/core/patternMatchingRegularExpressions/patternMatchingRegularExpressions",
+				"Defining Regular Expressions": "api/en/core/patternMatchingRegularExpressions/definingRegularExpressions",
+				"String Methods for Pattern Matching": "api/en/core/patternMatchingRegularExpressions/stringMethodsPatternMatching",
+				"The RegExp Object": "api/en/core/patternMatchingRegularExpressions/regExpObject"
+			},
+
+			"Javascript Subsets and Extensions": {
+				"Javascript Subsets and Extensions": "api/en/core/jsSubsetsExtensions/jsSubsetsExtensions",
+				"Javascript Subsets": "api/en/core/jsSubsetsExtensions/jsSubsets",
+				"Constant and Scoped Variables": "api/en/core/jsSubsetsExtensions/constantScopedVariables",
+				"Destructuring Assignment": "api/en/core/jsSubsetsExtensions/destructuringAssignment",
+				"Iteration": "api/en/core/jsSubsetsExtensions/iteration",
+				"Shorthand Functions": "api/en/core/jsSubsetsExtensions/shorthandFunctions",
+				"Multiple Catch Clauses": "api/en/core/jsSubsetsExtensions/multipleCatchClauses",
+				"E4X: ECMAScript XML": "api/en/core/jsSubsetsExtensions/e4x"
+			},
+
+			"Server-side Javascript": {
+				"Server-side Javascript": "api/en/core/serverSideJavaScript/serverSideJavaScript",
+				"Scripting Java with Rhino": "api/en/core/serverSideJavaScript/scriptingJavaWithRhino",
+				"Asynchronous I/O with Node": "api/en/core/serverSideJavaScript/asynchronousIONode"
+			}
+
+		},
+
+		"Client-Side JavaScript": {
+
+			"Javascript in Web Browsers": {
+				"Javascript in Web Browser": "api/en/clientside/javaScriptWebBrowsers/javaScriptWebBrowsers",
+				"Client-Side JavaScript": "api/en/clientside/javaScriptWebBrowsers/",
+				"Embedding JavaScript in HTML": "api/en/clientside/javaScriptWebBrowsers/",
+				"Execution of JavaScript Programs": "api/en/clientside/javaScriptWebBrowsers/",
+				"Compatibility and Interoperability": "api/en/clientside/javaScriptWebBrowsers/",
+				"Accesibility": "api/en/clientside/javaScriptWebBrowsers/",
+				"Security": "api/en/clientside/javaScriptWebBrowsers/",
+				"Client-Side Frameworks": "api/en/clientside/javaScriptWebBrowsers/"
+			},
+
+			"The Window Object": {
+				"The Window Object": "api/en/clientside/windowObject/windowObject",
+				"Timers": "api/en/clientside/windowObject/",
+				"Browser Location and Navigation": "api/en/clientside/windowObject/",
+				"Browsing History": "api/en/clientside/windowObject/",
+				"Browser and Screen Information": "api/en/clientside/windowObject/",
+				"Dialog Boxes": "api/en/clientside/windowObject/",
+				"Error Handling": "api/en/clientside/windowObject/",
+				"Document Elements as Window Properties": "api/en/clientside/windowObject/",
+				"Multiple Windows and Frames": "api/en/clientside/windowObject/"
+			},
+
+			"Scripting Documents": {
+				"Scripting Documents": "api/en/clientside/scriptingDocuments/scriptingDocuments",
+				"Overview of the DOM": "api/en/clientside/scriptingDocuments/",
+				"Selecting Document Elements": "api/en/clientside/scriptingDocuments/",
+				"Document Structure and Traversal": "api/en/clientside/scriptingDocuments/",
+				"Attributes": "api/en/clientside/scriptingDocuments/",
+				"Element Content": "api/en/clientside/scriptingDocuments/",
+				"Creating, Inserting and Deleting Nodes": "api/en/clientside/scriptingDocuments/",
+				"Example: Generating a Table of Contents": "api/en/clientside/scriptingDocuments/",
+				"Document and Element Geometry and Scrolling": "api/en/clientside/scriptingDocuments/",
+				"HTML Forms": "api/en/clientside/scriptingDocuments/",
+				"Other Document Features": "api/en/clientside/scriptingDocuments/"
+			},
+
+			"Scripting CSS": {
+				"Scripting CSS": "api/en/clientside/scriptingCSS/scriptingCSS",
+				"Overview of CSS": "api/en/clientside/scriptingCSS/",
+				"Important CSS Properties": "api/en/clientside/scriptingCSS/",
+				"Scripting Inline Styles": "api/en/clientside/scriptingCSS/",
+				"Querying Computed Styles": "api/en/clientside/scriptingCSS/",
+				"Scripting CSS Classes": "api/en/clientside/scriptingCSS/",
+				"Scripting Stylesheets": "api/en/clientside/scriptingCSS/"
+			},
+
+			"Handling Events": {
+				"Handling Events": "api/en/clientside/handlingEvents/handlingEvents",
+				"Types of Events": "api/en/clientside/handlingEvents/",
+				"Registering Event Handlers": "api/en/clientside/handlingEvents/",
+				"Event Handler Invocation": "api/en/clientside/handlingEvents/",
+				"Document Load Events": "api/en/clientside/handlingEvents/",
+				"Mouse Events": "api/en/clientside/handlingEvents/",
+				"Mousewheel Events": "api/en/clientside/handlingEvents/",
+				"Drag and Drop Events": "api/en/clientside/handlingEvents/",
+				"Text Events": "api/en/clientside/handlingEvents/",
+				"Keyboard Events": "api/en/clientside/handlingEvents/"
+			},
+
+			"Scripted HTTP": {
+				"Scripted HTTP": "api/en/clientside/scriptedHTTP/scriptedHTTP",
+				"Using XMLHttpRequest": "api/en/clientside/scriptedHTTP/",
+				"HTTP by <script>:JSONP": "api/en/clientside/scriptedHTTP/",
+				"Comet with Server-Sent Events": "api/en/clientside/scriptedHTTP/"
+			},
+
+			"The jQuery Library": {
+				"The jQuery Library": "api/en/clientside/jQueryLibrary/jQueryLibrary",
+				"jQuery Basics": "api/en/clientside/jQueryLibrary/",
+				"jQuery Getters and Setters": "api/en/clientside/jQueryLibrary/",
+				"Altering Document Structure": "api/en/clientside/jQueryLibrary/",
+				"Handling Events with jQuery": "api/en/clientside/jQueryLibrary/",
+				"Animated Effects": "api/en/clientside/jQueryLibrary/",
+				"Ajax and jQuery": "api/en/clientside/jQueryLibrary/",
+				"Utility Functions": "api/en/clientside/jQueryLibrary/",
+				"jQuery Selectors and Selection Methods": "api/en/clientside/jQueryLibrary/",
+				"Extending jQuery with Plug-ins": "api/en/clientside/jQueryLibrary/",
+				"The jQuery UI Library": "api/en/clientside/jQueryLibrary/"
+			},
+
+			"Client-Side Storage": {
+				"Client-Side Storage": "api/en/clientside/clientSideStorage/clientSideStorage",
+				"localStorage and sessionStorage": "api/en/clientside/clientSideStorage/",
+				"Cookies": "api/en/clientside/clientSideStorage/",
+				"IE userData Persistance": "api/en/clientside/clientSideStorage/",
+				"Application Storage and Offline Webapps": "api/en/clientside/clientSideStorage/"
+			},
+
+			"Scripted Media and Graphics": {
+				"Scripted Media and Graphics": "api/en/clientside/scriptedMediaGraphics/scriptedMediaGraphics",
+				"Scripting Images": "api/en/clientside/scriptedMediaGraphics/",
+				"Scripting Audio and Video": "api/en/clientside/scriptedMediaGraphics/",
+				"SVG: Scalable Vector Graphics": "api/en/clientside/scriptedMediaGraphics/",
+				"Graphics in a <canvas>": "api/en/clientside/scriptedMediaGraphics/"
+			},
+
+			"HTML5 APIs": {
+				"HTML5 APIs": "api/en/clientside/html5APIs/html5APIs",
+				"Geolocation": "api/en/clientside/html5APIs/",
+				"History Management": "api/en/clientside/html5APIs/",
+				"Cross-Origin Messaging": "api/en/clientside/html5APIs/",
+				"Web Workers": "api/en/clientside/html5APIs/",
+				"Typed Arrays and ArrayBuffers": "api/en/clientside/html5APIs/",
+				"Blobs": "api/en/clientside/html5APIs/",
+				"The Filesystem API": "api/en/clientside/html5APIs/",
+				"Client-Side Databases": "api/en/clientside/html5APIs/",
+				"Web Sockets": "api/en/clientside/html5APIs/"
+			}
+
+		},
+
+		
+			"JavaScript Reference": {
+				"Core JavaScript Reference": {
+					"Core JavaScript Reference":"api/en/reference/coreJSRef"
+			},
+				"Client-Side JavaScript Reference": {
+					"Client-Side JavaScript Reference":"api/en/reference/clientSide"
+			}
+
+		}
+
+	},
+
+    "ta": {
+
+		"Vannakam di Mappilai": {
+
+			"Adi Viraivil": {
+				"Vaathi Coming": "api/ta/introduction/Installation",
+				"Want to contribute?": "api/ta/contribute"
+			}
+		}
+
+	},
+
+    "hi": {
+
+		"Namaste, Chai Peelo Fraands": {
+
+			"Rukho jara Sabhar Karo": {
+				"Jaldi aaraha hei": "api/hi/introduction/Installation",
+				"Want to contribute?": "api/hi/contribute"
+			}
+
+		}
+
+	}
+}

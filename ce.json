@@ -1,0 +1,245 @@
+{
+
+	"en": {
+
+		"Content": {
+
+			"Ethical Hacking": {
+				"Introduction": "api/en/content/eh/intro/intro",
+				"Footprinting and Reconnaissance": "api/en/content/eh/recce/recce",
+				"Scanning Networks": "api/en/content/eh/scan/scan",
+				"Ennumeration": "api/en/content/eh/ennu/ennu",
+				"Vulnerability Analysis": "api/en/content/eh/vul/vul",
+				"System Hacking": "api/en/content/eh/sys/sys",
+				"Malware Analysis": "api/en/content/eh/mal/mal",
+				"Sniffers": "api/en/content/eh/sniff/sniff",
+				"Social Engineering": "api/en/content/eh/social/social",
+				"Denial of Service": "api/en/content/eh/denial/denial",
+				"Session Hijacking": "api/en/content/eh/session/session",
+				"Evading IDS, Firewalls and Honeypots": "api/en/content/eh/evade/evade",
+				"Hacking Web Servers and Web Applications": "api/en/content/eh/web/web",
+				"SQL Injection": "api/en/content/eh/sql/sql",
+				"Wireless Networks": "api/en/content/eh/wireless/wireless",
+				"Mobile Devices and Platforms": "api/en/content/eh/mobile/mobile",
+				"Hacking IoT Devices": "api/en/content/eh/iot/iot",
+				"Cloud Computing": "api/en/content/eh/cloud/cloud",
+				"Cryptography": "api/en/content/eh/crypt/crypt"
+			}
+		},
+
+		"Step 1 - Target": {
+
+			"Introduction to Ethical Hacking": {
+				"Information Security Overview": "api/en/introduction/javaScript",
+				"Hacking Methodologies and Frameworks": "api/en/introduction/coreJavaScript",
+				"Hacking Concepts": "api/en/introduction/clientSideJavaScript",
+				"Ethical Hacking Concepts": "api/en/introduction/coreJavaScript",
+				"Information Security Controls": "api/en/introduction/clientSideJavaScript",
+				"Information Security Laws and Standards": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+		"Step 2 - Recce": {
+
+			"Foorprinting and Reconnaissance": {
+				"Footprinting Concepts": "api/en/introduction/javaScript",
+				"Footprinting through Search Engines": "api/en/introduction/coreJavaScript",
+				"Footprinting through Web Service": "api/en/introduction/clientSideJavaScript",
+				"Footprinting through Social Networking Sites": "api/en/introduction/coreJavaScript",
+				"Website Footprinting": "api/en/introduction/clientSideJavaScript",
+				"Email Footprinting": "api/en/introduction/coreJavaScript",
+				"Whois Footprinting": "api/en/introduction/clientSideJavaScript",
+				"DNS Footprinting": "api/en/introduction/coreJavaScript",
+				"Network Footprinting": "api/en/introduction/clientSideJavaScript",
+				"Footprinting through Social Engineering": "api/en/introduction/clientSideJavaScript",
+				"Footprinting Tools": "api/en/introduction/coreJavaScript",
+				"Footprinting Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Scanning Networks": {
+				"Network Scanning Concepts": "api/en/introduction/javaScript",
+				"Scanning Tools": "api/en/introduction/coreJavaScript",
+				"Host Discovery": "api/en/introduction/clientSideJavaScript",
+				"Port and Service Discovery": "api/en/introduction/coreJavaScript",
+				"OS Discovery (Banner Grabbing/OS Fingerprinting)": "api/en/introduction/clientSideJavaScript",
+				"Scanning Beyond IDS and Firewall": "api/en/introduction/clientSideJavaScript",
+				"Network Scanning Countermeasures": "api/en/introduction/coreJavaScript"
+			},
+
+            "Enumeration": {
+				"Enumeration Concepts": "api/en/introduction/javaScript",
+				"NetBIOS Enumeration": "api/en/introduction/coreJavaScript",
+				"SNMP Enumeration": "api/en/introduction/clientSideJavaScript",
+				"LDAP Enumeration": "api/en/introduction/coreJavaScript",
+				"NTP and NFS Enumerating": "api/en/introduction/clientSideJavaScript",
+				"SMTP and DNS Enumeration": "api/en/introduction/clientSideJavaScript",
+				"Other Enumeration Techniques": "api/en/introduction/coreJavaScript",
+				"Enumeration Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Vulnerability Analysis": {
+				"Vulnerability Assessment Concepts": "api/en/introduction/javaScript",
+				"Vulnerability Classification and Assessment Types": "api/en/introduction/coreJavaScript",
+				"Vulnerability Assessment Tools": "api/en/introduction/coreJavaScript",
+				"Vulnerability Assessment Reports": "api/en/introduction/clientSideJavaScript"
+			}
+
+		
+		},
+
+		"Step 3 -Attack: Phase 1": {
+
+			"System Hacking": {
+				"Gaining Access": "api/en/introduction/clientSideJavaScript",
+				"Privilege Escalation": "api/en/introduction/coreJavaScript",
+				"Maintaining Access": "api/en/introduction/coreJavaScript",
+				"Clearning Logs": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Malware Analysis": {
+				"Malware Concepts": "api/en/introduction/javaScript",
+				"APT Concepts": "api/en/introduction/coreJavaScript",
+				"Trojan Concepts": "api/en/introduction/coreJavaScript",
+				"Virus and Worm Concepts": "api/en/introduction/coreJavaScript",
+				"Fileless Malware Concpets": "api/en/introduction/coreJavaScript",
+				"Malware Analysis": "api/en/introduction/coreJavaScript",
+				"Malware Countermeasures": "api/en/introduction/coreJavaScript",
+				"Anti-Malware Software": "api/en/introduction/coreJavaScript"
+			},
+
+			"Sniffers": {
+				"Sniffing Concepts": "api/en/introduction/coreJavaScript",
+				"MAC Attacks": "api/en/introduction/clientSideJavaScript",
+				"DHCP Attacks": "api/en/introduction/coreJavaScript",
+				"ARP Poisoning": "api/en/introduction/clientSideJavaScript",
+				"Spoofing Attacks": "api/en/introduction/clientSideJavaScript",
+				"DNS Poisoning": "api/en/introduction/clientSideJavaScript",
+				"Sniffing Tools": "api/en/introduction/coreJavaScript",
+				"Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Social Engineering": {
+				"Social Engineering Concepts": "api/en/introduction/javaScript",
+				"Social Engineering Techniques": "api/en/introduction/coreJavaScript",
+				"Insider Threats": "api/en/introduction/clientSideJavaScript",
+				"Impersonation on Social Networking Sites": "api/en/introduction/coreJavaScript",
+				"Identity Theft": "api/en/introduction/clientSideJavaScript",
+				"Social Engineering Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Denial of Service": {
+				"DoS/DDos Concepts": "api/en/introduction/javaScript",
+				"Botnets": "api/en/introduction/coreJavaScript",
+				"Dos/DDos Attack Techniques": "api/en/introduction/clientSideJavaScript",
+				"DDos Case Study": "api/en/introduction/coreJavaScript",
+				"Dos/DDos Attack Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Session Hijacking": {
+				"Session Hijacking Concepts": "api/en/introduction/javaScript",
+				"Application-Level Session Hijacking": "api/en/introduction/coreJavaScript",
+				"Network-Level Session Hijacking": "api/en/introduction/clientSideJavaScript",
+				"Session Hijacking Tools": "api/en/introduction/coreJavaScript",
+				"Service Hijacking Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Evading IDS Firewalls and Honeypots": {
+				"IDS, IPS, Firewall, and Honeypot Concepts": "api/en/introduction/javaScript",
+				"IDS, IPS, Firewall, and Honeypot Solutions": "api/en/introduction/coreJavaScript",
+				"Evading IDS": "api/en/introduction/clientSideJavaScript",
+				"Evading Firewalls": "api/en/introduction/coreJavaScript",
+				"Evading NAC and Endpoint Security": "api/en/introduction/clientSideJavaScript",
+				"IDS/Firewall Evading Tools": "api/en/introduction/clientSideJavaScript",
+				"Detecting Honeypots": "api/en/introduction/clientSideJavaScript",
+				"IDS/Firewall Evasion Countermeasures": "api/en/introduction/clientSideJavaScript"
+			}
+		
+		},
+
+        "Step 3 - Attack : Phase 2": {
+
+			"Hacking Web Servers": {
+				"Web Server Concpets": "api/en/introduction/javaScript",
+				"Web Server Attacks": "api/en/introduction/coreJavaScript",
+				"Web Server Attack Methodology": "api/en/introduction/clientSideJavaScript",
+				"Web Server Attack Countermeasures": "api/en/introduction/coreJavaScript",
+				"Patch Management": "api/en/introduction/clientSideJavaScript"
+			},
+            "Hacking Web Applications": {
+				"Web Application Concpets": "api/en/introduction/javaScript",
+				"Web Application Threats": "api/en/introduction/coreJavaScript",
+				"Web Application Hacking Methodology": "api/en/introduction/clientSideJavaScript",
+				"Web API, Webhooks, and Web Shell": "api/en/introduction/coreJavaScript",
+				"Web Application Security": "api/en/introduction/clientSideJavaScript"
+			},
+
+            "SQL Injection": {
+				"SQL Injection Concepts": "api/en/introduction/javaScript",
+				"Types of SQL Injection": "api/en/introduction/coreJavaScript",
+				"SQL Injection Methodology": "api/en/introduction/clientSideJavaScript",
+				"SQL Injection Tools": "api/en/introduction/coreJavaScript",
+				"Evasion Techniques": "api/en/introduction/clientSideJavaScript",
+				"SQL Injection Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Wireless Networks": {
+                "Wireless Concepts": "api/en/core/lexicalStructure/lexicalStructure",
+				"Wireless Encryption": "api/en/core/lexicalStructure/characterSet",
+				"Wireless Threats": "api/en/core/lexicalStructure/comments",
+				"Wireless Hacking Methodology": "api/en/core/lexicalStructure/literals",
+				"Wireless Hacking Tools": "api/en/core/lexicalStructure/identifiersReservedWords",
+				"Bluetooth Hacking": "api/en/core/lexicalStructure/optionalSemicolons",
+				"Wireless Attack Countermeasures": "api/en/core/lexicalStructure/optionalSemicolons",
+				"Wireless Security Tools": "api/en/core/lexicalStructure/optionalSemicolons"
+			}
+		},
+
+        "Step 3 - Attack: Phase 3": {
+
+			"Mobile Devices": {
+				"Mobile Platform Attack Vectors": "api/en/introduction/javaScript",
+				"Hacking Android OS": "api/en/introduction/coreJavaScript",
+				"Hacking iOS": "api/en/introduction/clientSideJavaScript",
+				"Mobile Device Management": "api/en/introduction/coreJavaScript",
+				"Mobile Security Guidelines and Tools": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Hacking IoT Devices": {
+				"IoT Concepts": "api/en/introduction/javaScript",
+				"Iot Attacks": "api/en/introduction/coreJavaScript",
+				"IoT Hacking Methodology": "api/en/introduction/clientSideJavaScript",
+				"Iot Attack Countermeasures": "api/en/introduction/coreJavaScript",
+				"OT Concepts": "api/en/introduction/clientSideJavaScript",
+				"OT Attacks": "api/en/introduction/clientSideJavaScript",
+				"OT Hacking Methodology": "api/en/introduction/coreJavaScript",
+				"OT Attack Countermeasures": "api/en/introduction/clientSideJavaScript"
+			},
+
+			"Cloud Computing": {
+				"Cloud Computing Concepts": "api/en/introduction/javaScript",
+				"Container Technology": "api/en/introduction/coreJavaScript",
+				"Serverless Computing": "api/en/introduction/clientSideJavaScript",
+				"Cloud Computing Threats": "api/en/introduction/coreJavaScript",
+				"Cloud Hacking": "api/en/introduction/clientSideJavaScript",
+				"Cloud Security": "api/en/introduction/clientSideJavaScript"
+			}
+		},
+
+        "Encryption": {
+
+			"Cryptography": {
+				"Cryptography Concepts": "api/en/introduction/javaScript",
+				"Encryption Algorithms": "api/en/introduction/coreJavaScript",
+				"Cryptography Tools": "api/en/introduction/clientSideJavaScript",
+				"Public Key Infrastructure (PKI)": "api/en/introduction/coreJavaScript",
+				"Email Encryption": "api/en/introduction/clientSideJavaScript",
+				"Disk Encryption": "api/en/introduction/coreJavaScript",
+				"Cryptanalusis": "api/en/introduction/clientSideJavaScript",
+				"Cryptography Attack Countermeasures": "api/en/introduction/coreJavaScript"			}
+		}
+
+    }
+
+}
+
+		
